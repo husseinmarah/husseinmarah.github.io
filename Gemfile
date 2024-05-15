@@ -41,6 +41,8 @@ end
 
 # Finally
 # bundle exec jekyll serve
+# or
+# jekyll serve -l -H localhost
 
 
 
