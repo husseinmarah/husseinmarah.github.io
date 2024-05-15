@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Hussein Marah / Hussein's Personal Website"
+title                    : "Hussein's Homepage"
 title_separator          : "-"
-name                     : &name "Hussein"
-description              : &description "Website of Hussein Marah"
+name                     : &name "Hussein Marah"
+description              : &description "Hussein Marah Personal Web"
 url                      : https://husseinmarah.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 # baseurl                  : "" # the subpath of your site, e.g. "/blog"
 # repository               : "academicpages/academicpages.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpeg"
   name             : "Hussein Marah"
   pronouns         : # example: "she/her"  
-  bio              : "Researcher/Computer Scientist/Digitalization Enthusiast/Adventure Seeker"
+  bio              : "Researcher-Computer Scientist-Digitalization Enthusiast-Adventure Seeker"
   location         : "Belgium, Antwerp"
   employer         : "University of Antwerp"
   uri              : # https://www.uantwerpen.be/en/
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -183,7 +183,7 @@ markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
-incremental: false
+incremental: true
 
 
 # Markdown Processing
