@@ -25,4 +25,23 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'hawkins'
   gem "webrick", "~> 1.8"
+  gem 'jekyll', '3.9.5'
+  gem 'tzinfo'
+  gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 end
+
+# The following steps were following to make this file work with
+# Jekyll, Ruby and github-pages, and run the website locally.
+# gem update --system
+# gem install bundler
+
+# Then
+# bundle clean --force
+# bundle install
+
+# Finally
+# bundle exec jekyll serve
+
+
+
+
