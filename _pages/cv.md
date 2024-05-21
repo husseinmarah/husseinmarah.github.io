@@ -46,7 +46,7 @@ Skills
 Full CV
 ======
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can full CV from this <a href="/files/paper1.pdf">Link</a>.</div>
+  <div class="wordwrap">For more information, you can check the full CV from this <a href="/files/paper1.pdf">link</a>.</div>
 {% endif %}
 
 <!-- Publications
