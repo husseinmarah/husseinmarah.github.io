@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-👋🏻 I'm a computer scientist specializing in designing, modelling and simulation of intelligent and complex systems.
+👋🏻 I’m Hussein, a computer scientist specializing in designing, modelling and developing intelligent and complex systems.
 
 👨🏻‍🎓 Current Profession
 ------
@@ -15,13 +15,14 @@ Currently, I'm a PhD fellow at the University of Antwerp, focusing on developing
 
 📚 Focus & Interests
 ------
-My interests inclue software engineering, robotics, Internet of Things and modelling, data science and machine learning.
+My interests include software engineering, robotics, Internet of Things, modelling and simulation, data science and machine learning.
 
 🎯 Goal & Objective
 ------
-The ultimate goal after graduation is to apply the knowledge and leverage the experience that I had gained into reality and work towards achieving a positive impact on society.
+My ultimate goal after finishing a PhD trajectory is to apply the knowledge and leverage the experience that I had gained into reality and work towards achieving a positive impact on society and contribute to the technology advancement.
 
 👨🏻‍💻 Current Projects:
 ------
 * Creating and building a framework for modelling intelligent digital twins of cyber-physical systems.
 * Enhancing agent-based reasoning and decision-making processes using advanced data-driven models.
+* Designing and developing a hybrid multi-level reasoning approach for multi-robot systems.
